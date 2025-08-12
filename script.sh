@@ -1,1 +1,1 @@
-echo "hello"
+echo "hello" >> /root/jenkins/main.txt
