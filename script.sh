@@ -1,2 +1,2 @@
 #! /bin/bash
-echo "hello from main branch " > /root/jenkins/main.txt
+echo "hello from main branch " > /var/lib/jenkins/jenkins/main.txt
