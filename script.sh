@@ -1,1 +1,1 @@
-echo "hello from main branch " >> /root/jenkins/main.txt
+echo "hello from main2 branch " >> /root/jenkins/main.txt
